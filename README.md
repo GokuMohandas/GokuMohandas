@@ -19,8 +19,8 @@ I create platforms that enable people to solve problems.
    <td>
      <img width="20" src="https://goku.me/static/img/goku_circle.png"> &nbsp;<a href="https://www.goku.me/" target="_blank">Portfolio</a><br>
      <img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> &nbsp;<a href="https://www.linkedin.com/in/goku/" target="_blank">LinkedIn</a><br>
-     <img width="20" src="https://avatars3.githubusercontent.com/u/50278?s=200&v=4"> &nbsp;<a href="https://www.twitter.com/GokuMohandas/" target="_blank">Twitter</a><br>
-     <img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> &nbsp;<a href="https://www.linkedin.com/in/goku/" target="_blank">LinkedIn</a>
+     <img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png"> &nbsp;<a href="https://www.twitter.com/GokuMohandas/" target="_blank">Twitter</a><br>
+     <img width="20" src="https://s.pngkit.com/png/small/2-21145_youtube-logo-transparent-png-pictures-transparent-background-youtube.png"> &nbsp;<a href="https://www.youtube.com/madewithml?sub_confirmation=1" target="_blank">YouTube</a>
    </td>
  </tr>
 </table>
