@@ -3,9 +3,6 @@ Hi, I'm Goku Mohandas 👋
 I create platforms that enable people to solve problems.<br> 
 <a target="_blank" href="https://madewithml.com/subscribe/"><img src="https://img.shields.io/badge/Subscribe-20K-brightgreen"></a>&nbsp; to [Made With ML](https://madewithml.com/) for monthly updates on new content! 
 
-I create platforms that enable people to solve problems.<br> 
-<a target="_blank" href="https://madewithml.com/subscribe/"><img src="https://img.shields.io/badge/Subscribe-20K-brightgreen"></a>&nbsp; to [Made With ML](https://madewithml.com/) for monthly updates on new content! 
-
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Career</b></td>
