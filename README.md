@@ -1,4 +1,4 @@
-### Hi, I'm Goku Mohandas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Goku Mohandas
 
 I create platforms that enable people to solve problems.<br> 
 <a target="_blank" href="https://madewithml.com/subscribe/"><img src="https://img.shields.io/badge/Subscribe-20K-brightgreen"></a>&nbsp; to [Made With ML](https://madewithml.com/) for monthly updates on new content! 
