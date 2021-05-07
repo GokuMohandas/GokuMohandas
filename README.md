@@ -3,8 +3,8 @@
 I create platforms that enable people to solve problems.<br> 
 <a target="_blank" href="https://madewithml.com/subscribe/"><img src="https://img.shields.io/badge/Subscribe-20K-brightgreen"></a>&nbsp; to [Made With ML](https://madewithml.com/) for monthly updates on new content! 
 
-- [GokuMohandas/madewithml](https://github.com/GokuMohandas/madewithml) (🔥&nbsp; Among the <a href="https://github.com/topics/deep-learning" target="_blank">top ML</a> repositories on GitHub)
-- [GokuMohandas/mlops](https://github.com/GokuMohandas/mlops): a hands-on guide to MLOps and appied ML in production.
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) (🔥&nbsp; Among the <a href="https://github.com/topics/deep-learning" target="_blank">top ML</a> repositories on GitHub)
+- [GokuMohandas/MLOps](https://github.com/GokuMohandas/MLOps): a hands-on guide to MLOps and appied ML in production.
 
 <table border="0">
  <tr>
