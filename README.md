@@ -7,6 +7,7 @@ I create platforms that enable people to solve problems.<br>
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): repository for the [MLOps course](https://madewithml.com/#mlops).
 - [GokuMohandas/testing-ml](https://github.com/GokuMohandas/testing-ml): repository for the [testing](https://madewithml.com/courses/mlops/testing/) lesson.
 - [GokuMohandas/monitoring-ml](https://github.com/GokuMohandas/monitoring-ml): repository for the [monitoring](https://madewithml.com/courses/mlops/monitoring/) lesson.
+- [GokuMohandas/feature-store](https://github.com/GokuMohandas/feature-store): repository for the [feature store](https://madewithml.com/courses/mlops/feature-store/) lesson.
 
 Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png">&nbsp;<a href="https://www.twitter.com/GokuMohandas/" target="_blank">Twitter</a> or &nbsp;<img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://www.linkedin.com/in/goku/" target="_blank">LinkedIn</a><br>
 <a target="_blank" href="https://newsletter.madewithml.com/"><img src="https://img.shields.io/badge/Subscribe-35K-brightgreen"></a>&nbsp; to [Made With ML](https://madewithml.com/) for monthly updates on new content! 
