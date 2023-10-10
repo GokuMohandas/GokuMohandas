@@ -14,10 +14,9 @@ Connect with me via &nbsp;<img width="20" src="https://www.pinclipart.com/picdir
 
 <hr>
 
-- 🌏 &nbsp;Founder <a href="https://madewithml.com/" target="_blank">@MadeWithML</a><br>
+- 💻 &nbsp;ML <a href="https://www.anyscale.com/" target="_blank">@Anyscale</a><br>
+- 🌏 &nbsp;Founder <a href="https://madewithml.com/" target="_blank">@MadeWithML</a>  (acq.)<br>
 - 🏥 &nbsp;ML Lead <a href="http://ciitizen.com/" target="_blank">@Ciitizen</a> (acq.)<br>
 - 🔬 &nbsp;AI Research <a href="http://apple.com/" target="_blank">@Apple</a><br>
-- 📚 &nbsp;Author <a href="https://www.oreilly.com/" target="_blank">@OReillyMedia</a><br>
-- 🔥 &nbsp;Founder <a href="https://twitter.com/HotSpotRide" target="_blank">@HotSpot</a><br>
 - 🎓 &nbsp;CS/ML <a href="http://gatech.edu/" target="_blank">@GeorgiaTech</a><br>
 - 🎓 &nbsp;Biomed <a href="http://jhu.edu/" target="_blank">@JohnsHopkins</a><br>
